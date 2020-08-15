@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    <string name="confirm_order">Confirm Order</string>
+</resources>
